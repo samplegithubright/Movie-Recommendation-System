@@ -1,4 +1,4 @@
  Streamlit
  pypickle
- sklearn
+ scikit-learn
  requests
