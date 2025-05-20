@@ -1,4 +1,3 @@
-pip install pandas
 pip install Streamlit
 pip install pypickle
 pip install sklearn
